@@ -1,0 +1,5 @@
+cd('/users/desktop').
+
+or 
+
+['/home/user/desktop/conc'].
